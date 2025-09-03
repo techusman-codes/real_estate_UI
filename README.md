@@ -1,16 +1,29 @@
-# real_estate_app
+# 🏡 Real Estate App UI (Flutter)
 
-A new Flutter project.
+A modern and responsive **Real Estate App UI** built with **Flutter**.  
+This project focuses on **clean UI design**, **reusable widgets**, and **responsive layouts** for both Android and iOS platforms.  
 
-## Getting Started
+## 📖 Overview  
+The app provides an elegant interface for browsing properties, viewing property details, and exploring real estate categories.  
+It’s designed as a **UI showcase** (no backend integration yet) and can be extended into a full-fledged real estate marketplace.  
 
-This project is a starting point for a Flutter application.
+## ✨ Features  
+- 🏠 Property listing screen with cards  
+- 🔍 Search bar and filter options  
+- 📍 Property details screen (images, price, location, description)  
+- ❤️ Wishlist (UI only)  
+- 👤 Profile page layout  
+- 🌙 Light & Dark mode support  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **UI Design:** Material Design & Custom Widgets  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1️⃣ Clone the Repository  
+```bash
+git clonehttps://github.com/techusman-codes/real_estate_UI
+
+Build With Flutter
