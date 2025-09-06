@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:real_estate_app/screens/home.dart';
+import 'package:real_estate_app/screens/home_sreen.dart';
 
 class OnbaordingScreen extends StatelessWidget {
   const OnbaordingScreen({super.key});
