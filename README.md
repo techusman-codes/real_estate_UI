@@ -7,6 +7,7 @@ This project focuses on **clean UI design**, **reusable widgets**, and **respons
 The app provides an elegant interface for browsing properties, viewing property details, and exploring real estate categories.  
 It’s designed as a **UI showcase** (no backend integration yet) and can be extended into a full-fledged real estate marketplace.  
 ![App Screenshot](https://github.com/techusman-codes/real_estate_UI/blob/610410dd714736fb976d2afa4afdd3b41a4daa05/Screenshot%20From%202025-10-06%2019-38-48.png)
+Demolink: https://real-estate-ui-b4owdkm-usman-umar-garba.globeapp.dev/
 ## ✨ Features  
 - 🏠 Property listing screen with cards  
 - 🔍 Search bar and filter options  
