@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:real_estate_app/screens/property_card.dart';
 import 'package:real_estate_app/widgets/bottom_nav_bar.dart';
+import 'package:real_estate_app/widgets/property_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -224,7 +225,18 @@ class _HomePageState extends State<HomePage> {
                           3,
                           (index) => Padding(
                             padding: EdgeInsetsGeometry.only(top: 12.0),
-                            child: PropertyCard(),
+                            child: PropertyCard(
+                              ontap: () {
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => PropertyPage(
+                                      image: 'assets/images/img1.jpg',
+                                    ),
+                                  ),
+                                );
+                              },
+                            ),
                           ),
                         ),
                       ],
