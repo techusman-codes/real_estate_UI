@@ -104,6 +104,32 @@ class PropertyCard extends StatelessWidget {
                         fontSize: 17,
                       ),
                     ),
+                    Icon(Icons.book_outlined),
+                  ],
+                ),
+                SizedBox(height: 8),
+                Row(
+                  children: [
+                    Icon(Icons.location_on, color: Colors.deepOrange, size: 18),
+                    Text(
+                      "off sixway roundabout, byepass (5.1KM)",
+                      style: theme.textTheme.bodyMedium?.copyWith(
+                        color: Colors.grey,
+                      ),
+                    ),
+                  ],
+                ),
+                SizedBox(height: 8),
+                Row(
+                  children: [
+                    Icon(Icons.king_bed_outlined),
+                    SizedBox(width: 4),
+                    Text('3 bedrooms'),
+                    SizedBox(width: 16),
+                    Icon(Icons.bathtub),
+                    SizedBox(width: 4),
+                    Text('2 baths'),
+                    SizedBox(width: 16),
                   ],
                 ),
               ],
